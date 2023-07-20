@@ -1,0 +1,36 @@
+.navbar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    position: fixed;
+    width: 100vw;
+}
+
+.right-navbar-container {
+    display: flex;
+    flex-direction: row;
+    padding-right: 8vw;
+}
+
+.image-container {
+    padding-left: 10vw;
+}
+
+.navbar-img {
+    height: 40px;
+    width:40px;
+}
+
+.text-container {
+    padding-right: 5px;
+    font-size: 16px;
+}
+
+.icon-container {
+    padding-top:18px;
+    padding-left: 3px;
+    padding-right: 10px;
+    font-size: 20px;
+}

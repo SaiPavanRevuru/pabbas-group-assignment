@@ -1,0 +1,17 @@
+
+.banner-bg-container {
+    background-image: url("https://bno-restaurant-images.imgix.net/7211404b-b379-4cb7-b196-c2a617252720.jpg?lossless=1");
+    height:30vh;
+    background-size: cover;
+    width: 100vw;
+    text-align: center;
+    padding-top:100px;
+    padding-bottom:50px;
+}
+
+.heading {
+    
+    color:whitesmoke;
+    font-size: 24px;
+    font-weight: semi-bold;
+}
